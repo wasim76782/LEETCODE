@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/wasim76782/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/wasim76782/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/wasim76782/LEETCODE/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/wasim76782/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/wasim76782/LEETCODE/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/wasim76782/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/wasim76782/LEETCODE/tree/master/0575-distribute-candies) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/wasim76782/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/wasim76782/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/wasim76782/LEETCODE/tree/master/0217-contains-duplicate) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/wasim76782/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0575-distribute-candies](https://github.com/wasim76782/LEETCODE/tree/master/0575-distribute-candies) |
 ## String Matching
 |  |
