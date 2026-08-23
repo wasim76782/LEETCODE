@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/wasim76782/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/wasim76782/LEETCODE/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/wasim76782/LEETCODE/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/wasim76782/LEETCODE/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/wasim76782/LEETCODE/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/wasim76782/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/wasim76782/LEETCODE/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/wasim76782/LEETCODE/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/wasim76782/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/wasim76782/LEETCODE/tree/master/0704-binary-search) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/wasim76782/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/wasim76782/LEETCODE/tree/master/0621-task-scheduler) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/wasim76782/LEETCODE/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
