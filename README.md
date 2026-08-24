@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/wasim76782/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/wasim76782/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/wasim76782/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/wasim76782/LEETCODE/tree/master/0202-happy-number) |
 | [0905-sort-array-by-parity](https://github.com/wasim76782/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/wasim76782/LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
 ## Sorting
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/wasim76782/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/wasim76782/LEETCODE/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/wasim76782/LEETCODE/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/wasim76782/LEETCODE/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/wasim76782/LEETCODE/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/wasim76782/LEETCODE/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/wasim76782/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/wasim76782/LEETCODE/tree/master/0049-group-anagrams) |
+| [0202-happy-number](https://github.com/wasim76782/LEETCODE/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/wasim76782/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/wasim76782/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0575-distribute-candies](https://github.com/wasim76782/LEETCODE/tree/master/0575-distribute-candies) |
@@ -178,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/wasim76782/LEETCODE/tree/master/0046-permutations) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/wasim76782/LEETCODE/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
