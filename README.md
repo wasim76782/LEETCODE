@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-single-threaded-cpu](https://github.com/wasim76782/LEETCODE/tree/master/1834-single-threaded-cpu) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/wasim76782/LEETCODE/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/wasim76782/LEETCODE/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/wasim76782/LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/wasim76782/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-single-threaded-cpu](https://github.com/wasim76782/LEETCODE/tree/master/1834-single-threaded-cpu) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/wasim76782/LEETCODE/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/wasim76782/LEETCODE/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/wasim76782/LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -215,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/wasim76782/LEETCODE/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/wasim76782/LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
