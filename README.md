@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/wasim76782/LEETCODE/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/wasim76782/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/wasim76782/LEETCODE/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/wasim76782/LEETCODE/tree/master/0224-basic-calculator) |
 | [0509-fibonacci-number](https://github.com/wasim76782/LEETCODE/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/wasim76782/LEETCODE/tree/master/1137-n-th-tribonacci-number) |
 | [1486-xor-operation-in-an-array](https://github.com/wasim76782/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/wasim76782/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/wasim76782/LEETCODE/tree/master/0050-powx-n) |
+| [0224-basic-calculator](https://github.com/wasim76782/LEETCODE/tree/master/0224-basic-calculator) |
 | [0509-fibonacci-number](https://github.com/wasim76782/LEETCODE/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
@@ -117,11 +119,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/wasim76782/LEETCODE/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/wasim76782/LEETCODE/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/wasim76782/LEETCODE/tree/master/0125-valid-palindrome) |
+| [0224-basic-calculator](https://github.com/wasim76782/LEETCODE/tree/master/0224-basic-calculator) |
 | [0520-detect-capital](https://github.com/wasim76782/LEETCODE/tree/master/0520-detect-capital) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/wasim76782/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0224-basic-calculator](https://github.com/wasim76782/LEETCODE/tree/master/0224-basic-calculator) |
 ## Hash Table
 |  |
 | ------- |
