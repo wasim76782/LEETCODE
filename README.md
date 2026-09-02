@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/wasim76782/LEETCODE/tree/master/1672-richest-customer-wealth) |
 | [1834-single-threaded-cpu](https://github.com/wasim76782/LEETCODE/tree/master/1834-single-threaded-cpu) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/wasim76782/LEETCODE/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/wasim76782/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2206-divide-array-into-equal-pairs](https://github.com/wasim76782/LEETCODE/tree/master/2206-divide-array-into-equal-pairs) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/wasim76782/LEETCODE/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/wasim76782/LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/wasim76782/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/wasim76782/LEETCODE/tree/master/0224-basic-calculator) |
 | [0520-detect-capital](https://github.com/wasim76782/LEETCODE/tree/master/0520-detect-capital) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/wasim76782/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Stack
 |  |
 | ------- |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/wasim76782/LEETCODE/tree/master/0067-add-binary) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/wasim76782/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/wasim76782/LEETCODE/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Union-Find
 |  |
