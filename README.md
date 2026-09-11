@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/wasim76782/LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/wasim76782/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/wasim76782/LEETCODE/tree/master/0224-basic-calculator) |
+| [0387-first-unique-character-in-a-string](https://github.com/wasim76782/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/wasim76782/LEETCODE/tree/master/0520-detect-capital) |
 | [0940-distinct-subsequences-ii](https://github.com/wasim76782/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/wasim76782/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/wasim76782/LEETCODE/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/wasim76782/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/wasim76782/LEETCODE/tree/master/0219-contains-duplicate-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/wasim76782/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0575-distribute-candies](https://github.com/wasim76782/LEETCODE/tree/master/0575-distribute-candies) |
 | [0621-task-scheduler](https://github.com/wasim76782/LEETCODE/tree/master/0621-task-scheduler) |
 | [2206-divide-array-into-equal-pairs](https://github.com/wasim76782/LEETCODE/tree/master/2206-divide-array-into-equal-pairs) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/wasim76782/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/wasim76782/LEETCODE/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/wasim76782/LEETCODE/tree/master/0912-sort-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/wasim76782/LEETCODE/tree/master/2206-divide-array-into-equal-pairs) |
@@ -297,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/wasim76782/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/wasim76782/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
