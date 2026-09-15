@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/wasim76782/LEETCODE/tree/master/0202-happy-number) |
 | [0905-sort-array-by-parity](https://github.com/wasim76782/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/wasim76782/LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/wasim76782/LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/wasim76782/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0940-distinct-subsequences-ii](https://github.com/wasim76782/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/wasim76782/LEETCODE/tree/master/1137-n-th-tribonacci-number) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/wasim76782/LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Math
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/wasim76782/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/wasim76782/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2351-first-letter-to-appear-twice](https://github.com/wasim76782/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/wasim76782/LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Stack
 |  |
 | ------- |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/wasim76782/LEETCODE/tree/master/0621-task-scheduler) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/wasim76782/LEETCODE/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/wasim76782/LEETCODE/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/wasim76782/LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Newton's Method
 |  |
 | ------- |
