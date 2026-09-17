@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/wasim76782/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/wasim76782/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/wasim76782/LEETCODE/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/wasim76782/LEETCODE/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/wasim76782/LEETCODE/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/wasim76782/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/wasim76782/LEETCODE/tree/master/0575-distribute-candies) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/wasim76782/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/wasim76782/LEETCODE/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/wasim76782/LEETCODE/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/wasim76782/LEETCODE/tree/master/0283-move-zeroes) |
 | [0905-sort-array-by-parity](https://github.com/wasim76782/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/wasim76782/LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/wasim76782/LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
