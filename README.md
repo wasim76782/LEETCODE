@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/wasim76782/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/wasim76782/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/wasim76782/LEETCODE/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/wasim76782/LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/wasim76782/LEETCODE/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/wasim76782/LEETCODE/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/wasim76782/LEETCODE/tree/master/0485-max-consecutive-ones) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/wasim76782/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/wasim76782/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/wasim76782/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/wasim76782/LEETCODE/tree/master/0268-missing-number) |
 | [0621-task-scheduler](https://github.com/wasim76782/LEETCODE/tree/master/0621-task-scheduler) |
 | [0905-sort-array-by-parity](https://github.com/wasim76782/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/wasim76782/LEETCODE/tree/master/0912-sort-an-array) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/wasim76782/LEETCODE/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/wasim76782/LEETCODE/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/wasim76782/LEETCODE/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/wasim76782/LEETCODE/tree/master/0476-number-complement) |
 | [1486-xor-operation-in-an-array](https://github.com/wasim76782/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/wasim76782/LEETCODE/tree/master/2206-divide-array-into-equal-pairs) |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/wasim76782/LEETCODE/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/wasim76782/LEETCODE/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/wasim76782/LEETCODE/tree/master/0224-basic-calculator) |
+| [0268-missing-number](https://github.com/wasim76782/LEETCODE/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/wasim76782/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/wasim76782/LEETCODE/tree/master/0836-rectangle-overlap) |
 | [1137-n-th-tribonacci-number](https://github.com/wasim76782/LEETCODE/tree/master/1137-n-th-tribonacci-number) |
@@ -179,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/wasim76782/LEETCODE/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/wasim76782/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/wasim76782/LEETCODE/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/wasim76782/LEETCODE/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/wasim76782/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0575-distribute-candies](https://github.com/wasim76782/LEETCODE/tree/master/0575-distribute-candies) |
 | [0621-task-scheduler](https://github.com/wasim76782/LEETCODE/tree/master/0621-task-scheduler) |
@@ -199,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/wasim76782/LEETCODE/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/wasim76782/LEETCODE/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/wasim76782/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/wasim76782/LEETCODE/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/wasim76782/LEETCODE/tree/master/0704-binary-search) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/wasim76782/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Design
