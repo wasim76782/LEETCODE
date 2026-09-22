@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/wasim76782/LEETCODE/tree/master/0075-sort-colors) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/wasim76782/LEETCODE/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Simulation
 |  |
@@ -352,4 +353,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/wasim76782/LEETCODE/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/wasim76782/LEETCODE/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/wasim76782/LEETCODE/tree/master/1401-circle-and-rectangle-overlapping) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/wasim76782/LEETCODE/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
