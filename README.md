@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/wasim76782/LEETCODE/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/wasim76782/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/wasim76782/LEETCODE/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0696-count-binary-substrings](https://github.com/wasim76782/LEETCODE/tree/master/0696-count-binary-substrings) |
 | [0905-sort-array-by-parity](https://github.com/wasim76782/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/wasim76782/LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
 | [2460-apply-operations-to-an-array](https://github.com/wasim76782/LEETCODE/tree/master/2460-apply-operations-to-an-array) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/wasim76782/LEETCODE/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/wasim76782/LEETCODE/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/wasim76782/LEETCODE/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0696-count-binary-substrings](https://github.com/wasim76782/LEETCODE/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/wasim76782/LEETCODE/tree/master/0709-to-lower-case) |
 | [0940-distinct-subsequences-ii](https://github.com/wasim76782/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/wasim76782/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
