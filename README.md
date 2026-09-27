@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/wasim76782/LEETCODE/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/wasim76782/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/wasim76782/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [0728-self-dividing-numbers](https://github.com/wasim76782/LEETCODE/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/wasim76782/LEETCODE/tree/master/0836-rectangle-overlap) |
 | [1137-n-th-tribonacci-number](https://github.com/wasim76782/LEETCODE/tree/master/1137-n-th-tribonacci-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/wasim76782/LEETCODE/tree/master/1401-circle-and-rectangle-overlapping) |
