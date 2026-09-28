@@ -375,4 +375,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/wasim76782/LEETCODE/tree/master/0075-sort-colors) |
+## Concurrency
+|  |
+| ------- |
+| [1195-fizz-buzz-multithreaded](https://github.com/wasim76782/LEETCODE/tree/master/1195-fizz-buzz-multithreaded) |
 <!---LeetCode Topics End-->
