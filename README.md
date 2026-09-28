@@ -379,4 +379,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1195-fizz-buzz-multithreaded](https://github.com/wasim76782/LEETCODE/tree/master/1195-fizz-buzz-multithreaded) |
+| [1226-the-dining-philosophers](https://github.com/wasim76782/LEETCODE/tree/master/1226-the-dining-philosophers) |
 <!---LeetCode Topics End-->
