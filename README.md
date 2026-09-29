@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/wasim76782/LEETCODE/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/wasim76782/LEETCODE/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/wasim76782/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/wasim76782/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/wasim76782/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/wasim76782/LEETCODE/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/wasim76782/LEETCODE/tree/master/0088-merge-sorted-array) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/wasim76782/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/wasim76782/LEETCODE/tree/master/0064-minimum-path-sum) |
 | [1672-richest-customer-wealth](https://github.com/wasim76782/LEETCODE/tree/master/1672-richest-customer-wealth) |
 ## Sliding Window
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/wasim76782/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/wasim76782/LEETCODE/tree/master/0067-add-binary) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/wasim76782/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/wasim76782/LEETCODE/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
