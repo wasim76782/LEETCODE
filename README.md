@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/wasim76782/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/wasim76782/LEETCODE/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/wasim76782/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/wasim76782/LEETCODE/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/wasim76782/LEETCODE/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/wasim76782/LEETCODE/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/wasim76782/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/wasim76782/LEETCODE/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/wasim76782/LEETCODE/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/wasim76782/LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/wasim76782/LEETCODE/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Newton's Method
 |  |
 | ------- |
