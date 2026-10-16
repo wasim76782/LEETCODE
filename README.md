@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/wasim76782/LEETCODE/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/wasim76782/LEETCODE/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/wasim76782/LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/wasim76782/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/wasim76782/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1480-running-sum-of-1d-array](https://github.com/wasim76782/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/wasim76782/LEETCODE/tree/master/1672-richest-customer-wealth) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/wasim76782/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/wasim76782/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/wasim76782/LEETCODE/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/wasim76782/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/wasim76782/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Design
 |  |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/wasim76782/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/wasim76782/LEETCODE/tree/master/0303-range-sum-query-immutable) |
+| [1004-max-consecutive-ones-iii](https://github.com/wasim76782/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/wasim76782/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [3903-smallest-stable-index-i](https://github.com/wasim76782/LEETCODE/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/wasim76782/LEETCODE/tree/master/3904-smallest-stable-index-ii) |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/wasim76782/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/wasim76782/LEETCODE/tree/master/0219-contains-duplicate-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/wasim76782/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
