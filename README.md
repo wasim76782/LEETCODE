@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/wasim76782/LEETCODE/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2460-apply-operations-to-an-array](https://github.com/wasim76782/LEETCODE/tree/master/2460-apply-operations-to-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/wasim76782/LEETCODE/tree/master/2733-neither-minimum-nor-maximum) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/wasim76782/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/wasim76782/LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/wasim76782/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/wasim76782/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/wasim76782/LEETCODE/tree/master/0204-count-primes) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/wasim76782/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/wasim76782/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
