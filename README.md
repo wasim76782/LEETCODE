@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/wasim76782/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/wasim76782/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/wasim76782/LEETCODE/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2409-count-days-spent-together](https://github.com/wasim76782/LEETCODE/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/wasim76782/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/wasim76782/LEETCODE/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/wasim76782/LEETCODE/tree/master/3870-count-commas-in-range) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/wasim76782/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/wasim76782/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2351-first-letter-to-appear-twice](https://github.com/wasim76782/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
+| [2409-count-days-spent-together](https://github.com/wasim76782/LEETCODE/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/wasim76782/LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2833-furthest-point-from-origin](https://github.com/wasim76782/LEETCODE/tree/master/2833-furthest-point-from-origin) |
 | [3498-reverse-degree-of-a-string](https://github.com/wasim76782/LEETCODE/tree/master/3498-reverse-degree-of-a-string) |
