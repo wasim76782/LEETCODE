@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/wasim76782/LEETCODE/tree/master/0922-sort-array-by-parity-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/wasim76782/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/wasim76782/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1254-number-of-closed-islands](https://github.com/wasim76782/LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [1480-running-sum-of-1d-array](https://github.com/wasim76782/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/wasim76782/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1672-richest-customer-wealth](https://github.com/wasim76782/LEETCODE/tree/master/1672-richest-customer-wealth) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/wasim76782/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/wasim76782/LEETCODE/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/wasim76782/LEETCODE/tree/master/0064-minimum-path-sum) |
+| [1254-number-of-closed-islands](https://github.com/wasim76782/LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [1672-richest-customer-wealth](https://github.com/wasim76782/LEETCODE/tree/master/1672-richest-customer-wealth) |
 ## Sliding Window
 |  |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/wasim76782/LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/wasim76782/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/wasim76782/LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Enumeration
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/wasim76782/LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/wasim76782/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -469,4 +473,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/wasim76782/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/wasim76782/LEETCODE/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
