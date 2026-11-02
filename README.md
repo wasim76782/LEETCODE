@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/wasim76782/LEETCODE/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/wasim76782/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/wasim76782/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/wasim76782/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/wasim76782/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/wasim76782/LEETCODE/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/wasim76782/LEETCODE/tree/master/0575-distribute-candies) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/wasim76782/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/wasim76782/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/wasim76782/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/wasim76782/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/wasim76782/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/wasim76782/LEETCODE/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/wasim76782/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/wasim76782/LEETCODE/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/wasim76782/LEETCODE/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/wasim76782/LEETCODE/tree/master/0268-missing-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/wasim76782/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/wasim76782/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/wasim76782/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/wasim76782/LEETCODE/tree/master/0728-self-dividing-numbers) |
