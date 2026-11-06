@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/wasim76782/LEETCODE/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2460-apply-operations-to-an-array](https://github.com/wasim76782/LEETCODE/tree/master/2460-apply-operations-to-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/wasim76782/LEETCODE/tree/master/2733-neither-minimum-nor-maximum) |
+| [2747-count-zero-request-servers](https://github.com/wasim76782/LEETCODE/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/wasim76782/LEETCODE/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/wasim76782/LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/wasim76782/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/wasim76782/LEETCODE/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/wasim76782/LEETCODE/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2733-neither-minimum-nor-maximum](https://github.com/wasim76782/LEETCODE/tree/master/2733-neither-minimum-nor-maximum) |
+| [2747-count-zero-request-servers](https://github.com/wasim76782/LEETCODE/tree/master/2747-count-zero-request-servers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/wasim76782/LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/wasim76782/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Bit Manipulation
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/wasim76782/LEETCODE/tree/master/2206-divide-array-into-equal-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/wasim76782/LEETCODE/tree/master/2351-first-letter-to-appear-twice) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/wasim76782/LEETCODE/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2747-count-zero-request-servers](https://github.com/wasim76782/LEETCODE/tree/master/2747-count-zero-request-servers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/wasim76782/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/wasim76782/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/wasim76782/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/wasim76782/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/wasim76782/LEETCODE/tree/master/0594-longest-harmonious-subsequence) |
 | [1004-max-consecutive-ones-iii](https://github.com/wasim76782/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
+| [2747-count-zero-request-servers](https://github.com/wasim76782/LEETCODE/tree/master/2747-count-zero-request-servers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
