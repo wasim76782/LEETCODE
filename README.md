@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/wasim76782/LEETCODE/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/wasim76782/LEETCODE/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/wasim76782/LEETCODE/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/wasim76782/LEETCODE/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/wasim76782/LEETCODE/tree/master/0476-number-complement) |
 | [1486-xor-operation-in-an-array](https://github.com/wasim76782/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/wasim76782/LEETCODE/tree/master/2206-divide-array-into-equal-pairs) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/wasim76782/LEETCODE/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/wasim76782/LEETCODE/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/wasim76782/LEETCODE/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/wasim76782/LEETCODE/tree/master/0342-power-of-four) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/wasim76782/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/wasim76782/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/wasim76782/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/wasim76782/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/wasim76782/LEETCODE/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/wasim76782/LEETCODE/tree/master/0224-basic-calculator) |
+| [0342-power-of-four](https://github.com/wasim76782/LEETCODE/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/wasim76782/LEETCODE/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/wasim76782/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 ## Divide and Conquer
