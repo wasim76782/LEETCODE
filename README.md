@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/wasim76782/LEETCODE/tree/master/0342-power-of-four) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/wasim76782/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0492-construct-the-rectangle](https://github.com/wasim76782/LEETCODE/tree/master/0492-construct-the-rectangle) |
+| [0507-perfect-number](https://github.com/wasim76782/LEETCODE/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/wasim76782/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0537-complex-number-multiplication](https://github.com/wasim76782/LEETCODE/tree/master/0537-complex-number-multiplication) |
 | [0628-maximum-product-of-three-numbers](https://github.com/wasim76782/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
