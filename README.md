@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/wasim76782/LEETCODE/tree/master/0836-rectangle-overlap) |
 | [0989-add-to-array-form-of-integer](https://github.com/wasim76782/LEETCODE/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/wasim76782/LEETCODE/tree/master/1137-n-th-tribonacci-number) |
+| [1154-day-of-the-year](https://github.com/wasim76782/LEETCODE/tree/master/1154-day-of-the-year) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/wasim76782/LEETCODE/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1486-xor-operation-in-an-array](https://github.com/wasim76782/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/wasim76782/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/wasim76782/LEETCODE/tree/master/0709-to-lower-case) |
 | [0940-distinct-subsequences-ii](https://github.com/wasim76782/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/wasim76782/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1154-day-of-the-year](https://github.com/wasim76782/LEETCODE/tree/master/1154-day-of-the-year) |
 | [1446-consecutive-characters](https://github.com/wasim76782/LEETCODE/tree/master/1446-consecutive-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/wasim76782/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/wasim76782/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
