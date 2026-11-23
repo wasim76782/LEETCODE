@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/wasim76782/LEETCODE/tree/master/0342-power-of-four) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/wasim76782/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0492-construct-the-rectangle](https://github.com/wasim76782/LEETCODE/tree/master/0492-construct-the-rectangle) |
+| [0504-base-7](https://github.com/wasim76782/LEETCODE/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/wasim76782/LEETCODE/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/wasim76782/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0537-complex-number-multiplication](https://github.com/wasim76782/LEETCODE/tree/master/0537-complex-number-multiplication) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/wasim76782/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/wasim76782/LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/wasim76782/LEETCODE/tree/master/0500-keyboard-row) |
+| [0504-base-7](https://github.com/wasim76782/LEETCODE/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/wasim76782/LEETCODE/tree/master/0520-detect-capital) |
 | [0537-complex-number-multiplication](https://github.com/wasim76782/LEETCODE/tree/master/0537-complex-number-multiplication) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/wasim76782/LEETCODE/tree/master/0557-reverse-words-in-a-string-iii) |
