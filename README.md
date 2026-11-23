@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/wasim76782/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/wasim76782/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1254-number-of-closed-islands](https://github.com/wasim76782/LEETCODE/tree/master/1254-number-of-closed-islands) |
+| [1352-product-of-the-last-k-numbers](https://github.com/wasim76782/LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/wasim76782/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/wasim76782/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1672-richest-customer-wealth](https://github.com/wasim76782/LEETCODE/tree/master/1672-richest-customer-wealth) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/wasim76782/LEETCODE/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/wasim76782/LEETCODE/tree/master/1137-n-th-tribonacci-number) |
 | [1154-day-of-the-year](https://github.com/wasim76782/LEETCODE/tree/master/1154-day-of-the-year) |
+| [1352-product-of-the-last-k-numbers](https://github.com/wasim76782/LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/wasim76782/LEETCODE/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1486-xor-operation-in-an-array](https://github.com/wasim76782/LEETCODE/tree/master/1486-xor-operation-in-an-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/wasim76782/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -328,12 +330,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/wasim76782/LEETCODE/tree/master/0303-range-sum-query-immutable) |
+| [1352-product-of-the-last-k-numbers](https://github.com/wasim76782/LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/wasim76782/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/wasim76782/LEETCODE/tree/master/0303-range-sum-query-immutable) |
 | [1004-max-consecutive-ones-iii](https://github.com/wasim76782/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/wasim76782/LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/wasim76782/LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [3364-minimum-positive-sum-subarray](https://github.com/wasim76782/LEETCODE/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/wasim76782/LEETCODE/tree/master/3903-smallest-stable-index-i) |
@@ -551,4 +555,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/wasim76782/LEETCODE/tree/master/0812-largest-triangle-area) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/wasim76782/LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
