@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/wasim76782/LEETCODE/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/wasim76782/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0537-complex-number-multiplication](https://github.com/wasim76782/LEETCODE/tree/master/0537-complex-number-multiplication) |
+| [0592-fraction-addition-and-subtraction](https://github.com/wasim76782/LEETCODE/tree/master/0592-fraction-addition-and-subtraction) |
 | [0628-maximum-product-of-three-numbers](https://github.com/wasim76782/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/wasim76782/LEETCODE/tree/master/0728-self-dividing-numbers) |
 | [0812-largest-triangle-area](https://github.com/wasim76782/LEETCODE/tree/master/0812-largest-triangle-area) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/wasim76782/LEETCODE/tree/master/0520-detect-capital) |
 | [0537-complex-number-multiplication](https://github.com/wasim76782/LEETCODE/tree/master/0537-complex-number-multiplication) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/wasim76782/LEETCODE/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0592-fraction-addition-and-subtraction](https://github.com/wasim76782/LEETCODE/tree/master/0592-fraction-addition-and-subtraction) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/wasim76782/LEETCODE/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0680-valid-palindrome-ii](https://github.com/wasim76782/LEETCODE/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/wasim76782/LEETCODE/tree/master/0696-count-binary-substrings) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/wasim76782/LEETCODE/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/wasim76782/LEETCODE/tree/master/0067-add-binary) |
 | [0537-complex-number-multiplication](https://github.com/wasim76782/LEETCODE/tree/master/0537-complex-number-multiplication) |
+| [0592-fraction-addition-and-subtraction](https://github.com/wasim76782/LEETCODE/tree/master/0592-fraction-addition-and-subtraction) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/wasim76782/LEETCODE/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/wasim76782/LEETCODE/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2460-apply-operations-to-an-array](https://github.com/wasim76782/LEETCODE/tree/master/2460-apply-operations-to-an-array) |
@@ -566,4 +569,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/wasim76782/LEETCODE/tree/master/1352-product-of-the-last-k-numbers) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0592-fraction-addition-and-subtraction](https://github.com/wasim76782/LEETCODE/tree/master/0592-fraction-addition-and-subtraction) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0592-fraction-addition-and-subtraction](https://github.com/wasim76782/LEETCODE/tree/master/0592-fraction-addition-and-subtraction) |
 <!---LeetCode Topics End-->
